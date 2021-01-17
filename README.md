@@ -5,9 +5,10 @@
 
 * apt update
 * apt upgrade
+* pkg install bash
 * apt install git python2 -y
-* git clone https://github.com/mustafa123jan/Termux-Games
-* cd Termux-Games
+* git clone https://github.com/mustafa123jan/Termux-Game
+* cd Termux-Game
 
 #### Run > bash install.sh
                       bash game.sh
